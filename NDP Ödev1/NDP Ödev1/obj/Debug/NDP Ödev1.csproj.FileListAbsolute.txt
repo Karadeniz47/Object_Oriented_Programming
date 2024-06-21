@@ -1,0 +1,10 @@
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\bin\Debug\NDP Ödev1.exe.config
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\bin\Debug\NDP Ödev1.exe
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\bin\Debug\NDP Ödev1.pdb
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\obj\Debug\NDP Ödev1.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\obj\Debug\NDP_Ödev1.Form1.resources
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\obj\Debug\NDP_Ödev1.Properties.Resources.resources
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\obj\Debug\NDP Ödev1.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\obj\Debug\NDP Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\obj\Debug\NDP Ödev1.exe
+C:\Users\Huawei\source\repos\NDP Ödev1\NDP Ödev1\obj\Debug\NDP Ödev1.pdb
