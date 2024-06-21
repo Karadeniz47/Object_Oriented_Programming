@@ -1,0 +1,34 @@
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe.config
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form2.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form4.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.RandevuEkle.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.PersonelEkle.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.PersonelListesi.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.PersonelGüncelle.resources
+C:\Users\Huawei\source\repos\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.HizmetVeFiyatBilgileri.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe.config
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.exe
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\bin\Debug\NDP_Proje.pdb
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form1.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form2.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.HizmetVeFiyatBilgileri.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.PersonelEkle.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.PersonelGüncelle.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.PersonelListesi.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.RandevuEkle.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Form4.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.Properties.Resources.resources
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.exe
+D:\OneDrive\Desktop\NDP_Proje (1)\NDP_Proje\NDP_Proje\obj\Debug\NDP_Proje.pdb
