@@ -1,0 +1,22 @@
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe.config
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.pdb
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Properties.Resources.resources
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.GenerateResource.cache
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.exe
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.pdb
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Form1.resources
+C:\Users\Huawei\source\repos\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.DrawingForm.resources
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe.config
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.exe
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\bin\Debug\NDPOdev2.pdb
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.DrawingForm.resources
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Form1.resources
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.Properties.Resources.resources
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.exe
+D:\OneDrive\Desktop\NDPOdev2 (1)\NDPOdev2\NDPOdev2\obj\Debug\NDPOdev2.pdb
